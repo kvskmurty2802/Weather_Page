@@ -20,7 +20,7 @@ For the code, visit GitHub at [Weather Page](https://github.com/kvskmurty2802/We
   - [Usage](#Usage)
 - [Contributing](#Contributing)
 - [Features](#Features)
-- [Top Other Contributed Repositories](# 🔝 Top Contributed Repositories)
+- [Contact](#Contact)
 
 
 ## Features
