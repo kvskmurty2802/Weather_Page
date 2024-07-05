@@ -1,6 +1,6 @@
 <h2 align="center">Weather Page</h2>
 <p align="center">
-An awesome web application powered by the OpenWeather API to fetch weather data.
+An Awesome Web Application powered by the OpenWeather API to fetch Weather Data.
 </p>
 
 ## Project Overview
@@ -8,10 +8,11 @@ An awesome web application powered by the OpenWeather API to fetch weather data.
 This web application fetches current weather information based on user-provided location inputs. It provides real-time updates, including temperature, humidity, wind speed, and weather conditions.
 
 Visit the deployed page at [Weather Page](https://weather-page-eight.vercel.app/) to see the live application in action.
-For the code, visit GitHub at [Weather Page](https://github.com/kvskmurty2802/Weather_Page.git/).
+For the code, visit GitHub at [Weather Page](https://github.com/kvskmurty2802/Weather_Page).
 
 
 ![Screenshot](Image.png)
+
 
 ## Table of Contents
 
@@ -44,7 +45,6 @@ For the code, visit GitHub at [Weather Page](https://github.com/kvskmurty2802/We
    ```bash
     npm install
 
-
 ## Usage:
 
 1. Obtain an API key from Open Weather API.
@@ -60,7 +60,6 @@ For the code, visit GitHub at [Weather Page](https://github.com/kvskmurty2802/We
 4. Open your browser and visit below link to view the weather page.
    ```bash
     http://localhost:3000
-
 
 ## Contributing
 
@@ -81,20 +80,22 @@ Contributions are welcome! Please follow these steps:
 
 Here are some of my top contributed repositories:
 
-[TheMovieDB](https://github.com/kvskmurty2802/TheMovieDB) - [![TMDb](https://img.shields.io/badge/TMDb-Movie%20database%20for%20all-blue)](https://themoviedb-sigma.vercel.app/)
+[TheMovieDB](https://github.com/kvskmurty2802/TheMovieDB) - [![TMDb](https://img.shields.io/badge/TMDb-Movie%20database-blue)](https://themoviedb-sigma.vercel.app/)
 
-[Portfolio Page](https://github.com/kvskmurty2802/TheMovieDB) - [![P](https://img.shields.io/badge/TMDb-Movie%20database%20for%20all-blue)](https://github.com/kvskmurty2802/Portfolio_Page)
+[Portfolio Page](https://github.com/kvskmurty2802/Portfolio_Page) - [![Portfolio Page](https://img.shields.io/badge/Portfolio%20Page-Portfolio%20page-red)](https://portfolio-page-nu-two.vercel.app/)
+
+[Weather Page](https://github.com/kvskmurty2802/Weather_Page) - [![Weather Page](https://img.shields.io/badge/Weather%20Page-Weather%20application-green)](https://weather-page-eight.vercel.app/)
 
 
 Feel free to explore these projects and contributions!
 
+## Contact
+
+GitHub Profile: [kvskmurty2802](http://github.com/kvskmurty2802/)
+
+Contact me via [Email](mailto:krishnamurty2802@gmail.com).
+
+
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kvskmurty2802) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/kvskmurty2802/) 
-
-
-## Contact
-Done By Github Id: [kvskmurty2802](http://github.com/kvskmurty2802/)
-Contact Me by [Email](krishnamurty2802@gmail.com)
-
-This README file provides a structured overview of your Weather Page project, including installation instructions, usage guidelines, contribution details, licensing information, and contact details. Adjust the sections as per your project's specific requirements and details.
