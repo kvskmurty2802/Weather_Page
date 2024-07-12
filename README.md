@@ -59,7 +59,7 @@ For the code, visit GitHub at [Weather Page](https://github.com/kvskmurty2802/We
 
 4. Open your browser and visit below link to view the weather page.
    ```bash
-    http://localhost:3000
+    http://localhost:5173
 
 ## Contributing
 
