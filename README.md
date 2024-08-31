@@ -80,7 +80,7 @@ Contributions are welcome! Please follow these steps:
 
 Here are some of my top contributed repositories:
 
-[TheMovieDB](https://github.com/kvskmurty2802/TheMovieDB) - [![TMDb](https://img.shields.io/badge/TMDb-Movie%20database-blue)](https://themoviedb-sigma.vercel.app/)
+[TheMovieDB](https://github.com/kvskmurty2802/TheMovieDB) - [![TMDb](https://img.shields.io/badge/TMDb-Movie%20database-blue)](https://themoviedb-wine.vercel.app/)
 
 [Portfolio Page](https://github.com/kvskmurty2802/Portfolio_Page) - [![Portfolio Page](https://img.shields.io/badge/Portfolio%20Page-Portfolio%20page-red)](https://portfolio-page-nu-two.vercel.app/)
 
